@@ -1,3 +1,3 @@
 # password-provider
 
-Will provide a clean way for different password seeds such as mouse movement, GPU calculations to provide randomly generated passwords.
+Will provide a clean way for password generation based upon different seeds such as mouse movement and GPU calculations.
