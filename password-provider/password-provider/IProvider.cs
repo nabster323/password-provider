@@ -4,6 +4,6 @@
 
     public interface IProvider
     {
-        string Describe();
+        string Describe { get; }
     }
 }
